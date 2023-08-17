@@ -1,0 +1,22 @@
+head {
+	background-color: lightblue;
+}
+
+body {
+  background-color: lightblue; 
+  color: white; 
+  font-family: sans serif; 
+  letter-space: 08em; 
+  font-size: 1.4em; 
+  word-spacing: 1.1em; 
+} 
+
+h1 {
+  font-style: italic;  
+  font-wieht: 200; 
+  font-family: 
+} 
+
+nav {
+  word-spacing: normal; 
+}
