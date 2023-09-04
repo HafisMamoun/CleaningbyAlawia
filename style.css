@@ -1,22 +1,31 @@
-head {
-	background-color: lightblue;
+body {
+  background-color: lightblue;
 }
 
 body {
-  background-color: lightblue; 
-  color: white; 
-  font-family: sans serif; 
+  color: white;
+  font-family: ,Arial Hevetica, sans serif; 
   letter-space: 08em; 
   font-size: 1.4em; 
-  word-spacing: 1.1em; 
+  text-align: center;
+  padding: 0px; 
 } 
 
-h1 {
-  font-style: italic;  
+ul {
+  text-align: center;
+  padding: 0px; 
+} 
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+h1 { 
   font-wieht: 200; 
   font-family: 
-} 
-
-nav {
-  word-spacing: normal; 
-}
+    
+ p {
+     word-spacing: 1.2em; 
+  }
