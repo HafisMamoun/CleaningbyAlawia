@@ -1,17 +1,15 @@
 body {
-  background-color: #0f6aae;
-}
-
-body {
-  color: white;
-  font-family: ,Arial Hevetica, sans serif; 
+  background-color: #0f6aae; 
+  font-family: serif; 
+  color: white; 
   letter-space: 08em; 
-  font-size: 1.4em; 
-  text-align: center;
+  font-size: 1.2em; 
   padding: 0px; 
 } 
 
 ul {
+  font-family:  serif, heveetica, arial;
+  font-size: 1.2em;
   text-align: center;
   padding: 0px; 
 } 
@@ -23,9 +21,22 @@ li {
 }
 
 h1 { 
-  font-wieht: 200; 
-  font-family: 
-    
- p {
-     word-spacing: 1.2em; 
+  font-family: sans serif, helvetica, arial;
+  font-weight: 1.4em; 
+  text-align: centre;
+ } 
+
+h2 {
+  font-family: serif, hevetica, arial;
+  text-align: centre;
+}
+
+h3 {
+  font-family: serif;
+}
+
+ p { 
+   font-family: serif, hevetica, arial;
+   word-spacing: 1.2em; 
+   font-size: 1.2em;
   }
