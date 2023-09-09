@@ -3,7 +3,6 @@ body {
   font-family: serif; 
   color: white; 
   letter-space: 08em; 
-  font-size: 1.2em; 
   padding: 0px; 
 } 
 
@@ -37,6 +36,6 @@ h3 {
 
  p { 
    font-family: serif, hevetica, arial;
-   word-spacing: 1.2em; 
+   word-spacing: nomral; 
    font-size: 1.2em;
   }
