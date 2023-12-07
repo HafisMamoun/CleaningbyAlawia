@@ -1,6 +1,5 @@
 body {
   background-color: #0f6aae; 
-  font-family: serif; 
   color: white; 
   letter-space: 08em; 
   padding: 0px; 
@@ -31,7 +30,7 @@ h2 {
 }
 
 h3 {
-  font-family: serif;
+  font-family: sans serif;
 }
 
  p { 
