@@ -1,13 +1,12 @@
 body {
   background-color: #0f6aae; 
-  font-family: serif; 
   color: white; 
   letter-space: 08em; 
   padding: 0px; 
 } 
 
 ul {
-  font-family:  serif, heveetica, arial;
+  font-family:  serif, helvetica, arial;
   font-size: 1.2em;
   text-align: center;
   padding: 0px; 
@@ -26,16 +25,16 @@ h1 {
  } 
 
 h2 {
-  font-family: serif, hevetica, arial;
+  font-family: serif, helvetica, arial;
   text-align: centre;
 }
 
 h3 {
-  font-family: serif;
+  font-family: sans serif;
 }
 
  p { 
-   font-family: serif, hevetica, arial;
+   font-family: serif, helvetica, arial;
    word-spacing: nomral; 
    font-size: 1.2em;
   }
