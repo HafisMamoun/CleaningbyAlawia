@@ -5,6 +5,27 @@ body {
   padding: 0px; 
 } 
 
+h1 { 
+  font-family: sans serif, helvetica, arial;
+  font-weight: 1.4em; 
+  text-align: centre;
+}
+ 
+h2 {
+  font-family: serif, helvetica, arial;
+  text-align: centre;
+}
+
+h3 {
+  font-family: sans serif;
+}
+
+p { 
+   font-family: serif, helvetica, arial;
+   word-spacing: nomral; 
+   font-size: 1.2em;
+  }
+
 ul {
   font-family:  serif, helvetica, arial;
   font-size: 1.2em;
@@ -17,24 +38,3 @@ li {
   display: inline-block;
   margin: 0px 20px;
 }
-
-h1 { 
-  font-family: sans serif, helvetica, arial;
-  font-weight: 1.4em; 
-  text-align: centre;
- } 
-
-h2 {
-  font-family: serif, helvetica, arial;
-  text-align: centre;
-}
-
-h3 {
-  font-family: sans serif;
-}
-
- p { 
-   font-family: serif, helvetica, arial;
-   word-spacing: nomral; 
-   font-size: 1.2em;
-  }
